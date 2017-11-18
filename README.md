@@ -30,5 +30,5 @@ Introduction to HTML/CSS or basic HTML/CSS experience.
 
 ### Slide Links:
 
-*[Class 1 Slides](day1.html)
-*[Class 2 Slides](day2.html)
+* [Class 1 Slides](day1.html)
+* [Class 2 Slides](day2.html)
