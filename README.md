@@ -1,6 +1,6 @@
 Intermediate HTML/CSS &amp; Intro to Responsive Design
 ================================
-#### Written by Cara Jo Miller, GDI Boulder. Modified by Lisa Smith, GDI RDU
+#### Written by Cara Jo Miller, GDI Boulder. Modified by Lisa Smith, GDI RDU, and Liza Wilde GDI A2
 ---------------------
 ## Course description
 
@@ -27,3 +27,8 @@ Introduction to HTML/CSS or basic HTML/CSS experience.
 * CSS Transitions
 * CSS Transforms
 * Responsive design frameworks
+
+### Slide Links:
+
+*[Class 1 Slides](day1.html)
+*[Class 2 Slides](day2.html)
